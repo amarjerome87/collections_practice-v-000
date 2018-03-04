@@ -16,9 +16,8 @@ def sort_array_char_count(array)
   end
 end
 
-class Array 
-def swap_elements(a,b)
-  self[a], self[b] = self[b], self[a]
-  self
-end
+def swap_elements(array)
+
+
+
 end
