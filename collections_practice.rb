@@ -22,4 +22,9 @@ end
 
 def reverse_array(array)
   return array.reverse
-end 
+end
+
+def kesha_maker(array)
+  kesha = []
+  array.each do |strings|
+    
